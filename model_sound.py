@@ -44,7 +44,7 @@ def predict_sound(file_path, labels):
     return predicted_label
 
 # Path to your audio file and the labels file
-audio_file = dir_path + r'\baby-crying-01.wav'  # Replace with your actual audio file path
+audio_file = dir_path + r'\mixkit-woman-hilarious-laughing-410.wav'  # Replace with your actual audio file path
 labels_file = dir_path + r'\yamnet_class_map.csv'  # Replace with your actual labels file path
 
 # Load the labels
